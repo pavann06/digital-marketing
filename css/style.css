@@ -93,7 +93,8 @@
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: #A3202A;
+
 }
 
 .navbar .dropdown-toggle::after {
@@ -595,4 +596,20 @@
 
 .copyright a:hover {
     color: var(--primary) !important;
+}
+
+#add{
+    color: black !important;
+    background-color: #E5E5E5 !important;
+    
+
+}
+
+#title{
+    color: black !important;
+}
+
+#btn{
+    background-color: #A3202A !important;
+    border-color: #A3202A !important ;
 }
